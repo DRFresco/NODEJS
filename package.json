@@ -1,0 +1,31 @@
+{
+  "name": "NODEJS",
+  "version": "0.0.0",
+  "description": "servidor de prueba nodejs",
+  "main": "web.js",
+  "scripts": {
+    "test": "testme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DRFresco/NODEJS.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "DR Fresco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DRFresco/NODEJS/issues"
+  },
+  "homepage": "https://github.com/DRFresco/NODEJS",
+  "dependencies": {
+    "express": "^4.4.4",
+    "logfmt": "^1.1.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+
+
+}
